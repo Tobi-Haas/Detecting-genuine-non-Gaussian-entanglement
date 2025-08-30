@@ -1,4 +1,4 @@
-# Detecting-genuine-non-Gaussian-quantum-states
+Detecting genuine non-Gaussian quantum entanglement
 
 This repository contains the Mathematica code used to generate the figures of the paper “Detecting genuine non-Gaussian quantum states" (see arXiv:2504.15831):
 
